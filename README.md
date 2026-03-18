@@ -79,7 +79,10 @@ Open-source, no-logs VPN. Free tier includes servers in 10 countries. Requires a
 
 ### Install
 
-> **Check for the latest version** before running: [protonvpn.com/support/official-linux-vpn-ubuntu](https://protonvpn.com/support/official-linux-vpn-ubuntu). The filename and version number in the `wget` line change with new releases.
+> **Check for the latest version** before running: [protonvpn.com/support/official-linux-vpn-ubuntu](https://protonvpn.com/support/official-linux-vpn-ubuntu).
+>
+> 
+> The filename and version number in the `wget` line change with new releases.
 
 ```bash
 wget https://repo.protonvpn.com/debian/dists/stable/main/binary-all/protonvpn-stable-release_1.0.8_all.deb
